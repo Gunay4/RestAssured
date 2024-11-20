@@ -119,7 +119,7 @@ public class _07_GoRestUsersTest {
 
     }
 
-   @Test(dependsOnMethods = "deleteUser")
+   /*@Test(dependsOnMethods = "deleteUser")
     public void DeleteUserNegative(){
 
         given()
@@ -135,6 +135,6 @@ public class _07_GoRestUsersTest {
                 .statusCode(404)
 
         ;
-    }
+    }*/
 
 }

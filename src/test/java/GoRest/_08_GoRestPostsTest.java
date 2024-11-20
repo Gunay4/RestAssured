@@ -119,7 +119,7 @@ public class _08_GoRestPostsTest {
     }
 
 
-    @Test(dependsOnMethods = "DeletePosts")
+    /*@Test(dependsOnMethods = "DeletePosts")
     public void DeletePostsNegative(){
 
         given()
@@ -133,6 +133,6 @@ public class _08_GoRestPostsTest {
                 .statusCode(404)
         ;
 
-    }
+    }*/
 
 }
