@@ -72,7 +72,7 @@
 
                     <!--  CLASS çalıştırmak için  -->
                     <includes>
-                        <include>/_09_CountryTest.java</include>  <!-- / projenin neresinde ise bul  -->
+                        <include>**/_10_CitizenShipTest.java</include>  <!-- / projenin neresinde ise bul  -->
                     </includes>
 
                 </configuration>
